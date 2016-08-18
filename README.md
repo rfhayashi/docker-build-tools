@@ -14,7 +14,7 @@ tag in the repository and check the README file.
 
 ##Tools
 
-* JDK 7 (v1.7.0_111)
+* JDK 7 (v1.7.0_111) / JDK8 (v1.8.0_102)
 * Rake (v10.3.2)
 * Leiningen (v2.6.1)
 * App Engine SDK (v1.9.42) (available only on jdk7 tags)
