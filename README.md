@@ -1,4 +1,4 @@
-# Docker Build Tools
+# Build Tools
 
 Docker image with build tools I use.
 
